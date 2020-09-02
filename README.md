@@ -1,6 +1,6 @@
 # ada_assistance_policy_ros_melodic
 
-This repo contains a script that clones various repos needed to run ada_assistance_policy on ubuntu 18 with ros melodic in the directory ../ada_assistance_policy_ros_melodic_catkin_ws.
+This repo contains a script that clones various repos needed to run ada_assistance_policy (source code of paper Shared Autonomy via Hindsight Optimization https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6329599/ provided at https://github.com/personalrobotics/ada_assistance_policy) on ubuntu 18 with ros melodic in the directory ../ada_assistance_policy_ros_melodic_catkin_ws.
 
 To run ada_assistance_policy code:
 1. Install openrave using scripts provided at : https://github.com/crigroup/openrave-installation
